@@ -1,4 +1,4 @@
-package hr.fer.zemris.java.hw06.part1;
+package raycaster.fractals;
 
 import hr.fer.zemris.java.tecaj_06.fractals.FractalViewer;
 import java.io.BufferedReader;

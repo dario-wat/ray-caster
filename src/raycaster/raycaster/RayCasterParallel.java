@@ -1,4 +1,4 @@
-package hr.fer.zemris.java.hw06.part2;
+package raycaster.raycaster;
 
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.RecursiveAction;

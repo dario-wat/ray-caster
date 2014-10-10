@@ -1,4 +1,4 @@
-package hr.fer.zemris.java.hw06.part1;
+package raycaster.fractals;
 
 import java.util.concurrent.Callable;
 

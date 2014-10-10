@@ -1,4 +1,4 @@
-package hr.fer.zemris.java.hw06.part2;
+package raycaster.raycaster;
 
 import hr.fer.zemris.java.tecaj_06.rays.GraphicalObject;
 import hr.fer.zemris.java.tecaj_06.rays.IRayTracerProducer;

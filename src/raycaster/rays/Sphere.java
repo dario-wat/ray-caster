@@ -1,4 +1,4 @@
-package hr.fer.zemris.java.tecaj_06.rays;
+package raycaster.rays;
 
 /**
  * Class defines sphere scene object.
